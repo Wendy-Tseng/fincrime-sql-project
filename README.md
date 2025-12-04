@@ -1,8 +1,7 @@
 # aml-sql-portfolio
 
-Note:
-This repository was rebuilt and reorganized to create a clean, easy-to-review structure for showcasing my SQL analytics and AML investigation logic.
-All files were consolidated from earlier work into this single, presentation-ready portfolio for recruiters and technical reviewers.
+This repository was rebuilt and reorganized to provide a clean, easy-to-review structure for demonstrating SQL analytics and AML investigation logic.
+All components from earlier work were consolidated into this unified, presentation-ready portfolio designed for recruiters and technical reviewers.
 
 SQL analytics project using synthetic financial dataset to detect suspicious transactions and simulate AML investigation logic.
 
