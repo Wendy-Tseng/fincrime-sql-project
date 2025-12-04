@@ -1,6 +1,0 @@
-type,txn_count,fraud_count,fraud_rate_pct,flagged_count
-TRANSFER,2724,2270,83.3333,7
-CASH_OUT,4146,2245,54.1486,0
-PAYMENT,1853,0,0.0,0
-CASH_IN,1248,0,0.0,0
-DEBIT,29,0,0.0,0
